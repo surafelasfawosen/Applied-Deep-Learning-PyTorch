@@ -53,9 +53,11 @@ A Neural Network is constructed from stacked layers of interconnected artificial
 ```
 [ Input Layer ] ────────> [ Hidden Layer(s) ] ────────> [ Output Layer ]
 Raw Data (Features)      Pattern Extraction & Non-Linearity     Final Prediction
-<img width="2048" height="1655" alt="image" src="https://github.com/user-attachments/assets/19843bad-3eef-4b78-ac34-3dd8cfd3d02c" />
-
 ```
+![AI Neural Networks Architecture](4aaf431a6acd2383c77204e956645895.jpg)
+
+
+
 
 1. **Input Layer**: 
    - Receives raw feature values from your dataset (e.g. house size, temperature, or image pixel values).
