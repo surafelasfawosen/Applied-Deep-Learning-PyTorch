@@ -55,14 +55,14 @@ A Neural Network is constructed from stacked layers of interconnected artificial
 Raw Data (Features)      Pattern Extraction & Non-Linearity     Final Prediction
 ```
 
-1. ** Input Layer**: 
+1. **Input Layer**: 
    - Receives raw feature values from your dataset (e.g. house size, temperature, or image pixel values).
    - Does not perform math calculations; simply passes inputs $x_1, x_2, \dots, x_n$ to the next layer.
 2. **🧠 Hidden Layer(s)**:
    - The internal "thinking engine" of the network sitting between input and output.
    - Each neuron computes a weighted sum of its inputs, adds a bias, and applies a non-linear activation function.
    - Deep networks have multiple hidden layers to extract hierarchical patterns (e.g. Layer 1 detects edges $\to$ Layer 2 detects shapes $\to$ Layer 3 detects full objects).
-3. ** Output Layer**:
+3. **Output Layer**:
    - Takes processed representations from the final hidden layer and calculates the final decision.
    - For **Regression**: Outputs a single continuous number (e.g. house price).
    - For **Classification**: Outputs probability scores for target categories (e.g. Circle vs. Square).
