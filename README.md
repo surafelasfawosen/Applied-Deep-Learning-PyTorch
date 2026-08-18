@@ -1,6 +1,6 @@
-# 🧠 Applied Deep Learning & PyTorch: Beginner's Guide
+#  Applied Deep Learning & PyTorch: Guide
 
-Welcome to the **Applied Deep Learning & PyTorch Beginner's Guide**! This repository is designed to demystify neural networks, machine learning vs. deep learning, and PyTorch step-by-step. 
+Welcome to the **Applied Deep Learning & PyTorch  Guide**! This repository is designed to demystify neural networks, machine learning vs. deep learning, and PyTorch step-by-step. 
 
 Whether you are completely new to artificial intelligence or looking for a structured, plain-English breakdown of core concepts, this guide and accompanying interactive Jupyter Notebook will give you a solid foundation.
 
