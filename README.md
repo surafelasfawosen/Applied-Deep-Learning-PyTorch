@@ -1,4 +1,4 @@
-# 🧠 Applied Deep Learning & PyTorch: 
+#  Applied Deep Learning & PyTorch: 
 
 Welcome to the **Applied Deep Learning & PyTorch  Guide**! This repository is designed to demystify neural networks, machine learning vs. deep learning, and PyTorch step-by-step. 
 
@@ -6,7 +6,7 @@ Whether you are completely new to artificial intelligence or looking for a struc
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 1. [🤖 Machine Learning vs. Deep Learning](#-machine-learning-vs-deep-learning)
 2. [🧩 Core Concepts Explained](#-core-concepts-explained)
    - [1. How a Neural Network is Created (Layers Architecture)](#1-how-a-neural-network-is-created-layers-architecture)
